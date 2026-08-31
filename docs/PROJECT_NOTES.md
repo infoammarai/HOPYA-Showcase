@@ -30,3 +30,7 @@ CyrenX is described in the private repository as an interactive wellness app. Th
 - [ ] Add a verified App Store or public TestFlight link when available.
 - [ ] Add an approved business contact for freelance and hiring enquiries.
 - [ ] Keep all future commits free of production services, credentials, and personal data.
+
+## Developer-supplied app presentation
+
+`app-showcase.png` is the CyrenX montage supplied for public portfolio use. It represents the broader app interface, not the standalone sample code. The image does not verify shipping status or live integration behaviour.
