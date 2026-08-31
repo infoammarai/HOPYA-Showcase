@@ -27,10 +27,18 @@ CyrenX is described in the private repository as an interactive wellness app. Th
 
 - [ ] Build in Xcode and test tabs, card sheets, large text, dark mode, and VoiceOver.
 - [ ] Add screenshots captured from the running sample, labelled as sample UI.
-- [ ] Add a verified App Store or public TestFlight link when available.
+- [x] Add developer-provided App Store and official website links.
 - [ ] Add an approved business contact for freelance and hiring enquiries.
 - [ ] Keep all future commits free of production services, credentials, and personal data.
 
 ## Developer-supplied app presentation
 
 `app-showcase.png` is the CyrenX montage supplied for public portfolio use. It represents the broader app interface, not the standalone sample code. The image does not verify shipping status or live integration behaviour.
+
+## Download information
+
+Official website: https://cyrenx.com/
+
+App Store: https://apps.apple.com/us/app/cyrenx-manifest-become/id6799670474
+
+The developer supplied these links and the three-day free-trial offer. The README directs visitors to the app or App Store for current trial eligibility and subscription terms; those terms were not independently retrievable during this update.

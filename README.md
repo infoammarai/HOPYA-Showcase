@@ -8,9 +8,13 @@ An iOS lifestyle and self-reflection app bringing daily readings, personal missi
 
 [Explore the code](Sources/ContentView.swift) · [Run the demo](#run-the-layout-in-xcode) · [Project scope](docs/PROJECT_NOTES.md) · [Developer profile](https://github.com/infoammarai)
 
-## App availability
+## Download and try CyrenX
 
-**Not publicly available for download yet.** No verified App Store or public TestFlight link has been provided for this showcase. The source below is a developer preview, not an installable production app. This repository does not distribute an IPA or request payment.
+**[Download on the App Store](https://apps.apple.com/us/app/cyrenx-manifest-become/id6799670474) · [Visit the official website](https://cyrenx.com/)**
+
+**Try it free for 3 days.** Trial availability and eligibility are subject to the offer shown in the app or App Store. Review the subscription price, renewal terms, and cancellation details before starting your trial.
+
+Download the full app through the App Store link above. This GitHub repository contains a simplified layout sample and portfolio materials, not the production app source or an installable IPA.
 
 ## App interface showcase
 
@@ -23,7 +27,7 @@ The cream-and-brown palette, serif headings, rounded cards, and gold accents cre
 
 [View the full-size showcase](docs/app-showcase.png)
 
-*App presentation supplied by the developer. The montage shows the broader app UI; the public SwiftUI file below is a simplified, independent layout sample and does not reproduce these screens or include their production functionality. App availability and feature behaviour are not verified by the image.*
+*App presentation supplied by the developer. The montage shows the broader app UI; the public SwiftUI file below is a simplified, independent layout sample and does not reproduce these screens or include their production functionality. The image does not independently verify feature behaviour; see the App Store listing for current availability and product details.*
 
 ## Public code sample
 
@@ -41,7 +45,7 @@ This repository is a small, readable example of SwiftUI interface work: reusable
 
 **Development approach:** Codex-assisted implementation with Xcode as the intended build and review environment. This is a new public sample; it is not an export of the production source or proof of a released app. Runtime validation is recorded in [project notes](docs/PROJECT_NOTES.md).
 
-For freelance or role enquiries, visit [my GitHub profile](https://github.com/infoammarai). A preferred business contact and verified release links can be added when available.
+For freelance or role enquiries, visit [my GitHub profile](https://github.com/infoammarai). A preferred business contact can be added when available.
 
 ## Run the layout in Xcode
 
