@@ -1,6 +1,6 @@
 ![CyrenX iOS app interface showcase](docs/app-showcase.png)
 
-# CyrenX
+# Destini
 
 **Small actions. A different life.**
 
@@ -8,11 +8,10 @@ An iOS lifestyle and self-reflection app bringing daily readings, personal missi
 
 [Explore the code](Sources/ContentView.swift) · [Run the demo](#run-the-layout-in-xcode) · [Project scope](docs/PROJECT_NOTES.md) · [Developer profile](https://github.com/infoammarai)
 
-## Download and try CyrenX
+## Download and try Destini
 
 **[Download on the App Store](https://apps.apple.com/us/app/cyrenx-manifest-become/id6799670474) · [Visit the official website](https://cyrenx.com/)**
 
-**Try it free for 3 days.** Trial availability and eligibility are subject to the offer shown in the app or App Store. Review the subscription price, renewal terms, and cancellation details before starting your trial.
 
 Download the full app through the App Store link above. This GitHub repository contains a simplified layout sample and portfolio materials, not the production app source or an installable IPA.
 
