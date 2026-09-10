@@ -58,7 +58,7 @@ An Xcode project is not bundled; the sample is intentionally a single self-conta
 
 ## Public scope and privacy
 
-The supplied CyrenX presentation shows a lifestyle and self-reflection interface. The public SwiftUI sample remains a separate basic layout concept; the reading, mission, and vision-board implementations remain private.
+The supplied Destini presentation shows a lifestyle and self-reflection interface. The public SwiftUI sample remains a separate basic layout concept; the reading, mission, and vision-board implementations remain private.
 
 Only this layout sample, the supplied app presentation image, and portfolio documentation are public. Production repositories and their Git histories remain private. No backend, account records, private assets, payment flows, credentials, analytics, or production algorithms are included.
 
@@ -66,9 +66,9 @@ The showcase is for lifestyle and self-reflection, not medical advice or a medic
 
 ## More app showcases
 
-- [WoofyWalky](https://github.com/infoammarai/WoofyWalky-Showcase) — dog care routines
+- [LeashUp](https://github.com/infoammarai/LeashUp-Showcase) — dog care routines
 - [ABCTrade](https://github.com/infoammarai/ABCTrade-Showcase) — trading workspace concept
-- [CyrenX](https://github.com/infoammarai/CyrenX-Showcase) — wellness concept
+- [Destini](https://github.com/infoammarai/Destini-Showcase) — wellness concept
 
 ## Usage
 
