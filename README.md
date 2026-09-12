@@ -1,4 +1,4 @@
-![CyrenX iOS app interface showcase](docs/app-showcase.png)
+![HOPYA! iOS app interface showcase](docs/app-showcase.png)
 
 # Destini
 
@@ -68,7 +68,7 @@ The showcase is for lifestyle and self-reflection, not medical advice or a medic
 
 - [LeashUp](https://github.com/infoammarai/LeashUp-Showcase) — dog care routines
 - [ABCTrade](https://github.com/infoammarai/ABCTrade-Showcase) — trading workspace concept
-- [Destini](https://github.com/infoammarai/Destini-Showcase) — wellness concept
+- [HOPYA!](https://github.com/infoammarai/HOPYA-Showcase) — wellness concept
 
 ## Usage
 
