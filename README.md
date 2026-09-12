@@ -1,6 +1,6 @@
 ![HOPYA! iOS app interface showcase](docs/app-showcase.png)
 
-# Destini
+# HOPYA!
 
 **Small actions. A different life.**
 
@@ -8,7 +8,7 @@ An iOS lifestyle and self-reflection app bringing daily readings, personal missi
 
 [Explore the code](Sources/ContentView.swift) · [Run the demo](#run-the-layout-in-xcode) · [Project scope](docs/PROJECT_NOTES.md) · [Developer profile](https://github.com/infoammarai)
 
-## Download and try Destini
+## Download and try HOPYA!
 
 **[Download on the App Store](https://apps.apple.com/us/app/cyrenx-manifest-become/id6799670474) · [Visit the official website](https://cyrenx.com/)**
 
@@ -48,7 +48,7 @@ For freelance or role enquiries, visit [my GitHub profile](https://github.com/in
 
 ## Run the layout in Xcode
 
-1. Clone this repository: `git clone https://github.com/infoammarai/CyrenX-Showcase.git`.
+1. Clone this repository: `git clone https://github.com/infoammarai/HOPYA-Showcase.git`.
 2. In Xcode, create a new **iOS App** using **SwiftUI** and **Swift**. Set the deployment target to iOS 17 or later.
 3. Keep Xcode's generated app entry point and replace its `ContentView.swift` with [Sources/ContentView.swift](Sources/ContentView.swift). Do not add a second copy of `ContentView`.
 4. Select an installed compatible iPhone Simulator and run. Signing is only needed when running on a physical device.
@@ -58,7 +58,7 @@ An Xcode project is not bundled; the sample is intentionally a single self-conta
 
 ## Public scope and privacy
 
-The supplied Destini presentation shows a lifestyle and self-reflection interface. The public SwiftUI sample remains a separate basic layout concept; the reading, mission, and vision-board implementations remain private.
+The supplied HOPYA! presentation shows a lifestyle and self-reflection interface. The public SwiftUI sample remains a separate basic layout concept; the reading, mission, and vision-board implementations remain private.
 
 Only this layout sample, the supplied app presentation image, and portfolio documentation are public. Production repositories and their Git histories remain private. No backend, account records, private assets, payment flows, credentials, analytics, or production algorithms are included.
 
