@@ -66,9 +66,9 @@ The showcase is for lifestyle and self-reflection, not medical advice or a medic
 
 ## More app showcases
 
-- [LeashUp](https://github.com/infoammarai/LeashUp-Showcase) — dog care routines
+- [LeashUp](https://github.com/infoammarai/LeashUp-Showcase) — dog care marketplace
 - [ABCTrade](https://github.com/infoammarai/ABCTrade-Showcase) — trading workspace concept
-- [HOPYA!](https://github.com/infoammarai/HOPYA-Showcase) — wellness concept
+- [HOPYA!](https://github.com/infoammarai/HOPYA-Showcase) — Dating paltform
 
 ## Usage
 
